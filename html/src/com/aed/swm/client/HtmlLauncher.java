@@ -1,9 +1,9 @@
-package com.aed.swm.client;
+package hk.ust.aed.swm.client;
 
 import com.badlogic.gdx.ApplicationListener;
 import com.badlogic.gdx.backends.gwt.GwtApplication;
 import com.badlogic.gdx.backends.gwt.GwtApplicationConfiguration;
-import com.aed.swm.SWM;
+import hk.ust.aed.swm.SWM;
 
 public class HtmlLauncher extends GwtApplication {
 

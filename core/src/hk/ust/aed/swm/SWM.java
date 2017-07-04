@@ -1,4 +1,4 @@
-package com.aed.swm;
+package hk.ust.aed.swm;
 
 import com.badlogic.gdx.ApplicationListener;
 import com.badlogic.gdx.Gdx;

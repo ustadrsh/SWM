@@ -1,10 +1,10 @@
-package com.aed.swm;
+package hk.ust.aed.swm;
 
 import android.os.Bundle;
 
 import com.badlogic.gdx.backends.android.AndroidApplication;
 import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;
-import com.aed.swm.SWM;
+import hk.ust.aed.swm.SWM;
 
 public class AndroidLauncher extends AndroidApplication {
 	@Override
